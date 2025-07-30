@@ -9,10 +9,8 @@ This document outlines the procedures for configuring a CentOS 7 server environm
 
 ## Prerequisites
 - CentOS 7 installed (minimal or server edition).
-- Root or sudo privileges.
+- Root or sudo privileges. [Create new User avoid root] 
 - Internet access for package downloads.
-- Basic familiarity with the Linux command line.
-
 ---
 
 ## Step 1: System Update
