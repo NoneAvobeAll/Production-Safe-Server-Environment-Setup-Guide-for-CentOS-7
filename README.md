@@ -1,6 +1,6 @@
 # Production-Safe Server Environment Setup Guide for CentOS 7
 
-**Author:** Abubakkar Khan Fazla Rabbi | System Administrator | Schertech
+**Author:** Abubakkar Khan Fazla Rabbi | System Administrator | Schertech |
 **Date:** July 30, 2025
 
 This document outlines the procedures for configuring a CentOS 7 server environment to support JSP and Java applications, ensuring compliance with production safety standards. The guide covers the installation and configuration of Java 1.8, Apache Tomcat 8 or later, MariaDB (MySQL-compatible), and the necessary environment variables. All steps prioritize security, reliability, and best practices for a production-ready environment.
